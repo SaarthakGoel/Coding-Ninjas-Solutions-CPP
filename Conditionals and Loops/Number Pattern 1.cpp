@@ -31,7 +31,7 @@ int main(){
 	int val = 1;
 	while (i <= n) {
 		int j = 1;
-        val = i;
+                val = i;
 		while (j <= i) {
 			cout << val;
 			j = j + 1;
